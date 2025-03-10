@@ -12,7 +12,8 @@ WebShell is a terminal-based web browser that renders websites as images directl
 
 ## Demo
 
-![Demo](https://via.placeholder.com/800x450?text=WebShell+Demo)
+<video src="https://github.com/BujorelActimel/webshell/raw/refs/heads/main/demo/demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Requirements
 
