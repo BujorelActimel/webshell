@@ -1,0 +1,16 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.log
+
+*.test
+
+*.out
+go.work
+
+# Temporary files
+temp_screenshot.png
+*.tmp
