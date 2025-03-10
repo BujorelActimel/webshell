@@ -12,10 +12,7 @@ WebShell is a terminal-based web browser that renders websites as images directl
 
 ## Demo
 
-<video src="https://github.com/BujorelActimel/webshell/raw/refs/heads/main/demo/demo.mp4" controls="controls">
-</video>
-
-## Requirements
+https://github-production-user-asset-6210df.s3.amazonaws.com/66405930/421106693-98889cd7-bf31-4cd1-8e1b-9b5b41d9d275.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T220644Z&X-Amz-Expires=300&X-Amz-Signature=4aba216cc256f2f7a6d37c3ce863c463c12369ff5b2dcdb67da625412e0f4237&X-Amz-SignedHeaders=host
 
 * Go 1.24 or higher
 * Windows operating system
